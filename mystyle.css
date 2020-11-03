@@ -33,7 +33,8 @@ body {
 #content-box {
   border-radius: 25px;
   background: #FFF;
-  padding: 15px;
+  padding: 20px;
+  padding-bottom: 25px;
   margin-bottom: 15px;
 }
 
