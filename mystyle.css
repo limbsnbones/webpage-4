@@ -8,6 +8,10 @@
   src: url(chapaza/Chapaza Italic.ttf)
 }
 
+h1 {
+  font-family: chapaza-itlaic;
+}
+
 h3 {
   font-family: chapaza-italic;
 }
