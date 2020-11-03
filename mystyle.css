@@ -1,32 +1,32 @@
 @font-face {
-  font-family: chapaza;
-  src: url(chapaza/Chapaza.ttf);
+  font-family: cafe;
+  src: url(louis_george_caf/Louis-George-Cafe.ttf);
 }
 
 @font-face {
-  font-family: chapaza-italic;
-  src: url(chapaza/Chapaza Italic.ttf)
+  font-family: cafe1;
+  src: url(louis_george_caf/Louis-George-Cafe-Bold.ttf);
 }
 
 h1 {
-  font-family: chapaza-itlaic;
+  font-family: cafe1;
 }
 
 h3 {
-  font-family: chapaza-italic;
+  font-family: cafe1;
 }
 
 body {
   display: flex;
   justify-content: center;
-  font-family: chapaza;
-  background: pink;
+  font-family: cafe;
+  background: #9e90c1;
 }
 
 #container {
   position: relative;
   top: 50px;
-  width: 500px;
+  width: 550px;
   bottom: 50px;
 }
 
