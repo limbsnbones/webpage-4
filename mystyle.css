@@ -26,6 +26,8 @@ body {
   justify-content: center;
   font-family: cafe;
   background: #9e90c1;
+  background-image: url("birch laves.png");
+  background-repeat: repeat-x;
 }
 
 #container {
