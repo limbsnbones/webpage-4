@@ -18,6 +18,7 @@ body {
 
 #content-box {
   border-radius: 25px;
+  background: #FFF;
   padding: 15px;
   margin-bottom: 15px;
 }
@@ -33,7 +34,6 @@ ul {
 
 a {
   text-decoration: none;
-  background: #FFF;
   padding: 15px;
 }
 
