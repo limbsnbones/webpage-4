@@ -1,11 +1,11 @@
 @font-face {
   font-family: chapaza;
-  src: url(webpage-4/chapaza/Chapaza.ttf);
+  src: url(chapaza/Chapaza.ttf);
 }
 
 @font-face {
   font-family: chapaza-italic;
-  src: url(webpage-4/chapaza/Chapaza Italic.ttf)
+  src: url(chapaza/Chapaza Italic.ttf)
 }
 
 h3 {
