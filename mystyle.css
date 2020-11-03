@@ -1,6 +1,10 @@
 @font-face {
   font-family: chapaza;
-  src: url(webpage-4/chapaza/Chapaza.ttf);
+  src: url(GitHub/webpage-4/chapaza/Chapaza.ttf);
+}
+
+p {
+  font-family: chapaza;
 }
 
 body {
