@@ -4,12 +4,12 @@
 }
 
 @font-face {
-  font-family: chapaza;
+  font-family: chapaza-italic;
   src: url(GitHub/webpage-4/chapaza/Chapaza Italic.ttf)
 }
 
 h3 {
-  font-family: chapaza;
+  font-family: chapaza-italic;
 }
 
 body {
