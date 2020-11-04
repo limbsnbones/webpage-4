@@ -25,6 +25,11 @@
   animation: 20s slider infinite;
 }
 
+#slider figure img {
+  width: 25%;
+  float: left;
+}
+
 h1 {
   font-family: cafe1;
 }
