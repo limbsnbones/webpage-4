@@ -13,7 +13,7 @@
   src: url(louis_george_caf/Louis-George-Cafe-Light-Italic.ttf);
 }
 
-#sticky {
+div.sticky {
   position: sticky;
   top: 50px;
   padding: 5px;
