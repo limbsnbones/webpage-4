@@ -140,6 +140,9 @@ body {
   justify-content: center;
   font-family: cafe;
   background: #9e90c1;
+  background-image: url("steve-action.png"), url("alex-action.png");
+  background-repeat: no-repeat, no-repeat;
+  background-position: left 100px top 1500px, right 110px bottom 700px;
 }
 
 #container {
